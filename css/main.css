@@ -939,6 +939,9 @@ strong,
         box-shadow: 0 0 2px transparent;
     }
 	
+	.about-carousel-text {	
+		margin-top: 15px; margin-bottom: -20px
+	}
 	.gallery-image-mw {
 		max-width: 235px !important;
 	}
@@ -4798,9 +4801,12 @@ strong,
     .header h2 {
         font-size: 28px !important;
     }
-	
+}
 
-
+@media (min-width:450px) {
+		.about-carousel-text {	
+	margin-top: 70px; margin-bottom: -20px
+	}
 }
 
 .frame {
