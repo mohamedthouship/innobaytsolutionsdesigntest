@@ -3367,6 +3367,16 @@ strong,
 .section-contact .content {
     padding-bottom: 40px;
 }
+.section-contact .content .c-equalleft {
+    float: left;
+    width: 50%;
+}
+
+.section-contact .content .c-equalright {
+    float: right;
+    width: 50%;
+}
+
 
     .section-contact .content .c-left {
         float: left;
