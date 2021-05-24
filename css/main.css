@@ -2279,13 +2279,13 @@ strong,
 }
 
 @media (min-width:720px) {
-	/* .section { */
-	/* display: none; */
-/* } */
+	.section { 
+	display: none; 
+} 
 
-/* .section.active { */
-	/* display: block; */
-/* } */
+.section.active {
+	display: block;
+} 
     .section .content .gallery-slides .c-gallery li.anim {
         opacity: 0;
         -webkit-transition: 0.3s;
