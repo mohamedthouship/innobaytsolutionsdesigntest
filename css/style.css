@@ -2120,4 +2120,5 @@ img.img100 {width:  100% !important;}
 
 .section.active {
 	display: block;
+	y-overflow: auto;
 } 
