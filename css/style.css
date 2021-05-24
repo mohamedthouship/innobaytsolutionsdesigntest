@@ -2113,3 +2113,11 @@ img.img100 {width:  100% !important;}
     margin-bottom: -24px;
     margin-left: -213px;
 }
+
+	.section { 
+	display: none; 
+} 
+
+.section.active {
+	display: block;
+} 
